@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: isyr163/kyb2
+          tags: isyr/kyb2
